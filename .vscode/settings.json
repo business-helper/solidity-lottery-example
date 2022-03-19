@@ -1,0 +1,7 @@
+{
+  "solidity.defaultCompiler": "remote",
+  "solidity.remappings": [
+    "@chainlink/=C:/Users/Tai/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@1.1.1",
+    "@openzeppelin/=C:/Users/Tai/.brownie/packages/OpenZeppelin/openzeppelin-contracts@3.4.0",
+  ]
+}
